@@ -11,7 +11,7 @@
     "eslint": "3"
   },
   "optionalDependencies": {
-    "babel-eslint": "7",
+    "babel-eslint": "^7.1.1",
     "eslint-plugin-babel": "3"
   },
   "devDependencies": {
