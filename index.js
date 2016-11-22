@@ -24,6 +24,9 @@ module.exports = {
 		'no-param-reassign': ['error', {
 			props: false,
 		}],
+		'no-mixed-operators': ['error', {
+			allowSamePrecedence: true,
+		}],
 
 		'padded-blocks': 'off',
 
