@@ -28,6 +28,7 @@ module.exports = {
 			allowSamePrecedence: true,
 		}],
 
+		'arrow-parens': ['error', 'always'],
 		'padded-blocks': 'off',
 
 		'prefer-arrow-callback': ['error', {
