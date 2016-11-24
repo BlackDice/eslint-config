@@ -18,7 +18,6 @@ module.exports = {
 
 		'semi': ['warn', 'never'],
 
-		'no-unexpected-multiline': 'error',
 		'no-use-before-define': ['error', 'nofunc'],
 		'no-unused-vars': 'warn',
 		'no-param-reassign': ['error', {
