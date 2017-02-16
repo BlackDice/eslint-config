@@ -4,15 +4,18 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "eslint-config-airbnb-base": "^10.0.1",
-    "eslint-plugin-import": "^2.2.0"
+    "eslint-config-airbnb-base": "latest",
+    "eslint-plugin-import": "latest"
   },
   "peerDependencies": {
     "eslint": "3"
   },
   "optionalDependencies": {
     "babel-eslint": "7",
-    "eslint-plugin-babel": "3"
+    "eslint-config-airbnb": "14",
+    "eslint-plugin-babel": "3",
+    "eslint-plugin-jsx-a11y": "3",
+    "eslint-plugin-react": "6"
   },
   "devDependencies": {
     "publish-please": "^2.2.0"
