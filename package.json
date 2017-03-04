@@ -8,7 +8,7 @@
     "eslint-plugin-import": "2"
   },
   "peerDependencies": {
-    "eslint": "3"
+    "eslint": "^3.17.0"
   },
   "optionalDependencies": {
     "babel-eslint": "7",
