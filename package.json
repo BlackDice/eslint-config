@@ -13,7 +13,7 @@
   "optionalDependencies": {
     "babel-eslint": "7",
     "eslint-config-airbnb": "14",
-    "eslint-plugin-babel": "3",
+    "eslint-plugin-babel": "^4.1.1",
     "eslint-plugin-jsx-a11y": "3",
     "eslint-plugin-react": "6"
   },
